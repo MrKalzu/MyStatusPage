@@ -60,11 +60,11 @@ For a full example, see `examples/example.config.ini`.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Any help is wellcome!
 
 ## License
 
-[Your chosen license]
+Everyting here is under BSD-3-Clause license.
 
 ## Acknowledgements
 
